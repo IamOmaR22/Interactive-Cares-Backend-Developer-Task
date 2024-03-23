@@ -54,6 +54,7 @@ The API is live and accessible at: [https://document.pythonanywhere.com/api/sign
 
 - Interactive Swagger Documentation: [https://document.pythonanywhere.com/swagger/](https://document.pythonanywhere.com/swagger/)
 - ReDoc Documentation: [https://document.pythonanywhere.com/redoc/](https://document.pythonanywhere.com/redoc/)
+- Postman Documentation: [https://documenter.getpostman.com/view/31578330/2sA35Bb3x3](https://documenter.getpostman.com/view/31578330/2sA35Bb3x3)
 
 ## Endpoints
 
